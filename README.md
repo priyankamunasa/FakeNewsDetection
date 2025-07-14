@@ -94,12 +94,6 @@ Both models performed strongly with high accuracy and F1-scores. Passive Aggress
 
 ---
 
-## 📎 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ## 🙌 Acknowledgements
 
 Special thanks to the contributors of the original dataset on Kaggle.
